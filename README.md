@@ -1,7 +1,9 @@
 # Hi there 👋
 **`Networks`**
+<img width="10" src="https://raw.githubusercontent.com/techwithulises/icons/c905895ea7c34e747561efb02b0cacd9a59f470f/cisco.svg">
 ### tools:
-<img src="https://raw.githubusercontent.com/techwithulises/icons/7c46f5a254a9e8eb6f3c8b480b1081d53d135816/bxl-visual-studio.svg"/>
+<img src="https://raw.githubusercontent.com/techwithulises/icons/c905895ea7c34e747561efb02b0cacd9a59f470f/visual-studio.svg"/>
+
 ```python
 print('hello!')
 ```
