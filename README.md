@@ -11,5 +11,5 @@
 
 
 ```python
-print('helloWorld!')
+print('z!')
 ```
