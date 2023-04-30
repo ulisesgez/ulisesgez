@@ -3,9 +3,11 @@
 
 ### tools:
 
-<img>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style="fill: rgba(0, 122, 204, 1);transform: ;msFilter:;"><path d="m21.29 4.1-4.12-2a1.36 1.36 0 0 0-.48-.1h-.08a1.18 1.18 0 0 0-.72.24l-.14.12-7.88 7.19L4.44 7a.83.83 0 0 0-.54-.17.88.88 0 0 0-.53.17l-1.1 1a.8.8 0 0 0-.27.61.84.84 0 0 0 .27.62l3 2.71-3 2.72a.84.84 0 0 0 0 1.23l1.1 1a.89.89 0 0 0 .6.22.93.93 0 0 0 .47-.17l3.43-2.61 7.88 7.19a1.2 1.2 0 0 0 .76.36h.17a1 1 0 0 0 .49-.12l4.12-2a1.25 1.25 0 0 0 .71-1.1V5.23a1.26 1.26 0 0 0-.71-1.13zM17 16.47l-6-4.53 6-4.53z"></path></svg>
-</img>
+<box-icon name='visual-studio' type='logo' color='#007acc' ></box-icon>
+
+<i class='bx bxl-visual-studio' style='color:#007acc'  ></i>
+
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAZlJREFUSEu1lU1SwkAQRt9AWS7lBnoDoQiuvYF4AuEEstRgFaHKGt0pJxBPIDeQtYQCbsANhDWGsSb8CJkEBiyyzHS+193zdUdw4EccWJ//AdxuCdQbijZpVeex0I4mvD/A7XggamuCMaD9AFW/ieJmQ3ubSKesz3cHbBefcaUTaq8D7npnHDOinhsZ2dV6GSbBJ5C1MoYBcL+ykNICI5heIy/6S6FN4oIBinMDagJ8nfXJX6DwkPk6uqpU8JGQeQPpVHB9ZQGYW241UrtChC3JRATGKEo8Oa3wvRUgDIyBmMYeEKSLPOeGyyNrgP7ioXPJVOjMVtq1lJq1JPrsBNhcRYujdNlwmTXApkUwNFxmBXD9V+B2rXrBe+ieOBtCBek07C/Z9fWlnc4BYxAVZL6JnoGfoJ0AmbVsEnxb2DQcNG3LIWpaihm0JnAVM8V6IM3pjl0V23aA7R5K3EXbAPrcFrJXBYsEqt0KSr0k56PqyIJnblObChYxcZbWrgvS3uqU7/4/WE3i3i+SQmfajwovwv4HsKj44IBfUW2sGdxmSWoAAAAASUVORK5CYII="/>
 
 
 ```python
