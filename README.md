@@ -12,10 +12,6 @@ print('hello!')
 ```
 
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/648b458035999ac82375b18a?variant=dark)](https://roadmap.sh)
-
-
-
 ## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
 
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
@@ -42,3 +38,5 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
