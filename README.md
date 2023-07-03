@@ -40,4 +40,4 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 </div>
 
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/648b458035999ac82375b18a?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/648b458035999ac82375b18a?variant=dark&roadmaps=ux-design%2Cbackend%2Cfrontend%2Cfull-stack)](https://roadmap.sh)
