@@ -1,8 +1,8 @@
-# Hola, mi nombre es Ulises Gutiérrez 👋
+# Hello, my name is Ulises Gutierrez 👋
 <img src="https://raw.githubusercontent.com/techwithulises/icons/384845f3c5106ba30b61aa0537f558912da8d947/main.svg">
 
 ```python
-print('hello!')
+print("Hello world and welcome, I'll tell you a little more about myself next!")
 ```
 
 ## g!
