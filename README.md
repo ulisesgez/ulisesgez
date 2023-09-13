@@ -1,5 +1,5 @@
 # Hello, my name is Ulises Gutierrez 👋
-<img src="https://raw.githubusercontent.com/techwithulises/icons/384845f3c5106ba30b61aa0537f558912da8d947/main.svg">
+<img src="https://raw.githubusercontent.com/ulisesgez/icons/7861ac417a01d262c6fbf933aa5583103f2e6370/main.svg">
 
 ```python
 print("Hello world and welcome, I'll tell you a little more about myself next!")
