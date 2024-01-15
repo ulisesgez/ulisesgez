@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/ulisesgez/icons/7861ac417a01d262c6fbf933aa5583103f2e6370/main.svg">
 
 ```python
-print("Hello world and welcome!, I am a growing self-taught software engineer. I'll tell you a little more about myself next.")
+print("Hello world and welcome!, I am a growing self-taught software engineer.")
 ```
 
 **Technologies:**
