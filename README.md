@@ -2,12 +2,10 @@
 <img src="https://raw.githubusercontent.com/ulisesgez/icons/7861ac417a01d262c6fbf933aa5583103f2e6370/main.svg">
 
 ```python
-print("Hello world and welcome, I'll tell you a little more about myself next!")
+print("Hello world and welcome!, I am a growing self-taught software engineer. I'll tell you a little more about myself next.")
 ```
 
-## I am a growing self-taught software engineer
-
-**Tecnologias:**
+**Technologies:**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ulises-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
