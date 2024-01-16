@@ -20,10 +20,11 @@ print("Hello world and welcome!, I am a growing self-taught software engineer.")
   ##
  
 <div>
-  <a href="https://ulisesgez.super.site/" target="_blank"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/ulisesgez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ulisesgez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gu362937@uaeh.edu.mx"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://ulisesgez.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://ulisesgez.super.site/" target="_blank"><img src="https://img.shields.io/badge/Blog-252525?style=for-the-badge&logo=notion&logoColor=white"></a>
+  <a href="https://www.instagram.com/ulisesgez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ulisesgez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto:gu362937@uaeh.edu.mx" target="_blank"><img src="https://img.shields.io/badge/-Gmail-bb001b?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 
