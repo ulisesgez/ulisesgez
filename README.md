@@ -28,4 +28,4 @@ print("Hello world and welcome!, I am a growing self-taught software engineer.")
 </div>
 
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/648b458035999ac82375b18a?variant=dark&roadmaps=ux-design%2Cbackend%2Cfrontend%2Cfull-stack)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/66589753b998f3b3c7f043e2?variant=dark)](https://roadmap.sh)
